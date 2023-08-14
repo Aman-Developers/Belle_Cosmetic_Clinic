@@ -362,6 +362,10 @@ span{
     color: var(--second-bg-color);
 }
 
+.contact{
+    background-image: url(images/home-bg1.svg);
+    background-size: cover;
+}
 
 .contact h2 {
     margin-bottom: 3rem;
