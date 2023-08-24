@@ -76,6 +76,13 @@ ScrollReveal({
         loop: true
     });
 
+    
 
 
-    // SERVICES-PAGE SCRIPT
+
+    function myfun(){
+        document.querySelector("body").classList.toggle("arabic");
+    }
+
+
+    
